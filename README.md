@@ -1,3 +1,3 @@
-<H1>CHATAPP<H1>
+<H1>CHATAPP</H1>
 
-  This is a new project of Richard Smid and Ondym.
+  <p>This is a new project of Richard Smid and Ondym.</p>
